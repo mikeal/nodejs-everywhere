@@ -10,7 +10,7 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
   "license": "Apache-2.0",
   "dependencies": {
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "csv-parser": "^1.9.3",
     "lodash": "^4.8.2",
     "request": "^2.70.0",
